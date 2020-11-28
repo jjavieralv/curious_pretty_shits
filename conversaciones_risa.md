@@ -30,4 +30,7 @@ Muuuuucha gente a lo largo del tiempo
 >*"Yo: ¿y tu que ELO eres haciendo el amor?  
 Matu: yo estoy en unranked jeje"*
 
+#Canario y yo
+>*"el arroz con leche es un tipo de paella"*
+
 
