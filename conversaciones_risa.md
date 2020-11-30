@@ -33,4 +33,7 @@ Matu: yo estoy en unranked jeje"*
 #Canario y yo
 >*"el arroz con leche es un tipo de paella"*
 
+#Carrazo (profesor PP y SO ETSISI)
+>*"para hacer algo, sin una idea es imposible"*
+
 
