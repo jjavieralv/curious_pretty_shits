@@ -36,4 +36,5 @@ Matu: yo estoy en unranked jeje"*
 #Carrazo (profesor PP y SO ETSISI)
 >*"para hacer algo, sin una idea es imposible"*
 
-
+>*"Yo me casé en vaqueros, por que cuando me puese el traje parecia camaron"*
+Tote
