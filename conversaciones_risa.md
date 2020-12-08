@@ -38,3 +38,6 @@ Matu: yo estoy en unranked jeje"*
 
 >*"Yo me casé en vaqueros, por que cuando me puese el traje parecia camaron"*
 Tote
+
+>*"Pffff, tiene un poquito de lag.."*
+Canario, con un mando de ps4, conectado por bluetooth al telefono, conectado a una aplicacion de streaming, por wifi que se conecta a un servidor de Amazon, que tiene un Windows virtualizado, que esta corriendo el juego
