@@ -9,7 +9,7 @@ Kike: Maduré"*
 > *"Los de compu sois telecos frustrados"*  
 -Anónimo 2018  
 
-## Revilla
+## ¿Revilla?
 > *"Si con que se robase un poco menos se salía de la crisis"*   
 -Miguel Ángel Revilla
 
@@ -30,15 +30,15 @@ Muuuuucha gente a lo largo del tiempo
 >*"Yo: ¿y tu que ELO eres haciendo el amor?  
 Matu: yo estoy en unranked jeje"*
 
-##Canario y yo
+## Canario y yo
 >*"el arroz con leche es un tipo de paella"*
 
-#Carrazo (profesor PP y SO ETSISI)
+## Carrazo (profesor PP y SO ETSISI)
 >*"para hacer algo, sin una idea es imposible"*
 
-##Tote
+## Tote
 >*"Yo me casé en vaqueros, por que cuando me puese el traje parecia camaron"*
 
-##Canario
+## Canario
 >*"Pffff, tiene un poquito de lag.."*
 -Canario, con un mando de ps4, conectado por bluetooth al telefono, conectado a una aplicacion de streaming, por wifi que se conecta a un servidor de Amazon, que tiene un Windows virtualizado, que esta corriendo el juego
