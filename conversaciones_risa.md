@@ -36,9 +36,18 @@ Matu: yo estoy en unranked jeje"*
 ## Carrazo (profesor PP y SO ETSISI)
 >*"para hacer algo, sin una idea es imposible"*
 
-## Tote
+## Estilo del novio
 >*"Yo me casé en vaqueros, por que cuando me puese el traje parecia camaron"*
+-Tote (CoreDumped)
 
-## Canario
+## Conectividades increibles
 >*"Pffff, tiene un poquito de lag.."*
 -Canario, con un mando de ps4, conectado por bluetooth al telefono, conectado a una aplicacion de streaming, por wifi que se conecta a un servidor de Amazon, que tiene un Windows virtualizado, que esta corriendo el juego
+
+## Esponjas curiosas
+>*"Yo no me compro esponjas, el pelo ya sirve de esponja"*
+-Canario
+
+## ¿Qué es adaptar el software heredado? 
+> *"Hacer esto es añadir una capa más de mierda a la lasaña de chapuzas"*  
+-Miguel Martinez (Telefonica)
