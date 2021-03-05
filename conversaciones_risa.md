@@ -41,11 +41,11 @@ Matu: yo estoy en unranked jeje"*
 -Tote (CoreDumped)
 
 ## Conectividades increibles
->*"Pffff, tiene un poquito de lag.."*
+> *"Pffff, tiene un poquito de lag.."* 
 -Canario, con un mando de ps4, conectado por bluetooth al telefono, conectado a una aplicacion de streaming, por wifi que se conecta a un servidor de Amazon, que tiene un Windows virtualizado, que esta corriendo el juego
 
 ## Esponjas curiosas
->*"Yo no me compro esponjas, el pelo ya sirve de esponja"*
+> *"Yo no me compro esponjas, el pelo ya sirve de esponja"*
 -Canario
 
 ## ¿Qué es adaptar el software heredado? 
