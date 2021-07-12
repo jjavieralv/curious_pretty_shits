@@ -34,14 +34,14 @@ Matu: yo estoy en unranked jeje"*
 >*"el arroz con leche es un tipo de paella"*
 
 ## Carrazo (profesor PP y SO ETSISI)
->*"para hacer algo, sin una idea es imposible"*
+>*"para hacer algo, sin una idea es imposible"*  
 
 ## Estilo del novio
->*"Yo me casé en vaqueros, por que cuando me puese el traje parecia camaron"*
+>*"Yo me casé en vaqueros, por que cuando me puese el traje parecia camaron"*  
 -Tote (CoreDumped)
 
 ## Conectividades increibles
-> *"Pffff, tiene un poquito de lag.."* 
+> *"Pffff, tiene un poquito de lag.."*  
 -Canario, con un mando de ps4, conectado por bluetooth al telefono, conectado a una aplicacion de streaming, por wifi que se conecta a un servidor de Amazon, que tiene un Windows virtualizado, que esta corriendo el juego
 
 ## Esponjas curiosas
@@ -49,9 +49,9 @@ Matu: yo estoy en unranked jeje"*
 -Canario
 
 ## ¿Qué es adaptar el software heredado? 
-> *"Hacer esto es añadir una capa más de mierda a la lasaña de chapuzas"*  
+> *"Hacer esto es añadir una capa más de mierda a la lasaña de chapuzas"*   
 -Miguel Martinez (Telefonica)
 
 ## Computadores
-> *"Computadores es mi sindrome de Estocolmo favorito"*
-- Anna
+> *"Computadores es mi sindrome de Estocolmo favorito"*  
+-Anna
