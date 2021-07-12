@@ -51,3 +51,7 @@ Matu: yo estoy en unranked jeje"*
 ## ¿Qué es adaptar el software heredado? 
 > *"Hacer esto es añadir una capa más de mierda a la lasaña de chapuzas"*  
 -Miguel Martinez (Telefonica)
+
+## Computadores
+> *"Computadores es mi sindrome de Estocolmo favorito"*
+- Anna
