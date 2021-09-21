@@ -55,3 +55,7 @@ Matu: yo estoy en unranked jeje"*
 ## Computadores
 > *"Computadores es mi sindrome de Estocolmo favorito"*  
 -Anna
+
+## PING
+> *"Hasta el silbido gomero tiene mejor ping"*  
+-Canario
