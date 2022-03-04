@@ -3,7 +3,8 @@
 ## ¿Por que dejar de hacer hardware? 
 >*"Kike: Yo antes hacía cosas de hardware  
 Yo: ¿Y por que lo dejaste?  
-Kike: Maduré"*
+Kike: Maduré"*  
+-Kike
 
 ## ¿Que somos los de compu?  
 > *"Los de compu sois telecos frustrados"*  
@@ -20,21 +21,23 @@ A: Pues...¿Me podrías arreglar el ordenador? Es que me va fatal
 Yo: Claro, ¿que ordenador es?  
 A: Uno azul  
 Yo: Hmmmm, valeee, bueno pues, ¿qué marca es?  
-A: Pues eso, uno azul  "*
-  
-Muuuuucha gente a lo largo del tiempo  
+A: Pues eso, uno azul  "*    
+-Muuuuucha gente a lo largo del tiempo  
 
-## Matu
+## La dura vida
 >*"Cuando me comí el último petit-suisse no pensé que sería el último petit-suisse que me comeria"*(revisar que no era exactamente asi)  
+-Matu
 
 >*"Yo: ¿y tu que ELO eres haciendo el amor?  
-Matu: yo estoy en unranked jeje"*
+Matu: yo estoy en unranked jeje"*  
 
-## Canario y yo
->*"el arroz con leche es un tipo de paella"*
+## Aberracion gastronomica
+>*"el arroz con leche es un tipo de paella"*  
+-Canario y yo  
 
-## Carrazo (profesor PP y SO ETSISI)
+## Potencial
 >*"para hacer algo, sin una idea es imposible"*  
+-Carrazo (profesor PP y SO ETSISI)  
 
 ## Estilo del novio
 >*"Yo me casé en vaqueros, por que cuando me puese el traje parecia camaron"*  
@@ -60,6 +63,6 @@ Matu: yo estoy en unranked jeje"*
 > *"Hasta el silbido gomero tiene mejor ping"*  
 -Canario
 
-## OFENDER
+## Ofender
 > *"Ahora cualquiera que se quede un dia sin postre se cree la nueva Rosa Parks"*  
--Ruben Arnoso
+-Ruben Arnoso (Rodrigo Cortes)
