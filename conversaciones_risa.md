@@ -59,3 +59,7 @@ Matu: yo estoy en unranked jeje"*
 ## PING
 > *"Hasta el silbido gomero tiene mejor ping"*  
 -Canario
+
+## OFENDER
+> *"Ahora cualquiera que se quede un dia sin postre se cree la nueva Rosa Parks"*  
+-Ruben Arnoso
