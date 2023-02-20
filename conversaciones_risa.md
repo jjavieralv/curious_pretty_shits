@@ -48,7 +48,7 @@ Matu: yo estoy en unranked jeje"*
 -Canario, con un mando de ps4, conectado por bluetooth al telefono, conectado a una aplicacion de streaming, por wifi que se conecta a un servidor de Amazon, que tiene un Windows virtualizado, que esta corriendo el juego
 
 ## Esponjas curiosas
-> *"Yo no me compro esponjas, el pelo ya sirve de esponja"*
+> *"Yo no me compro esponjas, el pelo ya sirve de esponja"*  
 -Canario
 
 ## ¿Qué es adaptar el software heredado? 
@@ -68,5 +68,5 @@ Matu: yo estoy en unranked jeje"*
 -Ruben Arnoso (Rodrigo Cortes)
 
 ## Optimizacion
-> - *"Es como si a un coche con las ruedas cuadradas le pones más caballos, va a correr más pero no solucionas el problema"*
+> - *"Es como si a un coche con las ruedas cuadradas le pones más caballos, va a correr más pero no solucionas el problema"*  
 -J (yo)
