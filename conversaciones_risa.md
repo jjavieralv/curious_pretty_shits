@@ -66,3 +66,7 @@ Matu: yo estoy en unranked jeje"*
 ## Ofender
 > *"Ahora cualquiera que se quede un dia sin postre se cree la nueva Rosa Parks"*  
 -Ruben Arnoso (Rodrigo Cortes)
+
+## Optimizacion
+> - *"Es como si a un coche con las ruedas cuadradas le pones más caballos, va a correr más pero no solucionas el problema"*
+-J (yo)
