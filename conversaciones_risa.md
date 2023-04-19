@@ -70,3 +70,7 @@ Matu: yo estoy en unranked jeje"*
 ## Optimizacion
 > *"Es como si a un coche con las ruedas cuadradas le pones más caballos, va a correr más pero no solucionas el problema"*  
 -J (yo)
+
+## Estimación
+> *"En la frase 'estimacion del proyecto' el verbo estimacion es compuesto, porque se compone de 'es' y 'timacion'"*
+-Jorge C (ING) 
