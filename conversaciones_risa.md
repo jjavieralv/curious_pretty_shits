@@ -72,5 +72,5 @@ Matu: yo estoy en unranked jeje"*
 -J (yo)
 
 ## Estimación
-> *"En la frase 'estimacion del proyecto' el verbo estimacion es compuesto, porque se compone de 'es' y 'timacion'"*
+> *"En la frase 'estimacion del proyecto' el verbo estimacion es compuesto, porque se compone de 'es' y 'timacion'"*  
 -Jorge C (ING) 
