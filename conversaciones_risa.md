@@ -74,3 +74,7 @@ Matu: yo estoy en unranked jeje"*
 ## Estimación
 > *"En la frase 'estimacion del proyecto' el verbo estimacion es compuesto, porque se compone de 'es' y 'timacion'"*  
 -Jorge C (ING) 
+
+## AZURE DevOps
+> *"Azufre DevOps"*  
+- Jorge C (ING)
