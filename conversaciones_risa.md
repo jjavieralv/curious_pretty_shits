@@ -78,3 +78,7 @@ Matu: yo estoy en unranked jeje"*
 ## AZURE DevOps
 > *"Azufre DevOps"*  
 -Jorge C (ING)
+
+## LOGROTATE
+> *"Si nosotros no generamos logs por si se os llena el FilesSystem"*
+- David P (ING)
